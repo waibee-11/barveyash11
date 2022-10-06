@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barveyash11
-- 👀 I’m interested in coding, maths and f1.
+- 👀 I’m interested in machine learning, coding, maths and f1.
 - 🌱 I’m currently learning cs at UW and bba at WLU.
-- 💞️ I’m looking to collaborate on python projects.
+- 💞️ I’m looking to collaborate on ml projects.
 - 📫 How to reach me: drop in a mail to my email id: 11yashbarve@gmail.com
 
 <!---
